@@ -1,6 +1,6 @@
                                     A PROJECT REPORT
                                           ON
-                                Simple Notepad using python tkinter module
+                          Simple Notepad using python tkinter module
 
 
 
