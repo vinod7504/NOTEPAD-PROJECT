@@ -1,14 +1,14 @@
-                                    A PROJECT REPORT
-                                          ON
-                          Simple Notepad using python tkinter module
+                                         A PROJECT REPORT
+                                              ON
+                               Simple Notepad using python tkinter module
 
 
 
-                                    Submitted By
-                                   B VINOD KUMAR
-                            (JNTUA COLLEGE OF ENGINEERING,ANANTAPUR)
-                                 Under the guidance of
-                                    P CHENNA REDDY
+                                         Submitted By
+                                         B VINOD KUMAR
+                              (JNTUA COLLEGE OF ENGINEERING,ANANTAPUR)
+                                    Under the guidance of
+                                       P CHENNA REDDY
 
 
 
